@@ -1,1 +1,1 @@
-Ligne conflictuelle depuis main 
+Ligne conflictuelle depuis feature/conflict 
