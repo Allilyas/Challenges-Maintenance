@@ -1,1 +1,2 @@
 Contenu fichier A 
+Ligne 1 
